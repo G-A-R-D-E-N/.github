@@ -4,10 +4,10 @@
 
 ### Game Architecture, Research, Development & Engineering Network
 
-**Building ambitious tools, systems, multiplayer frameworks, and modding technology.**
+**Building the next generation of Fallout 4 development tools, engine research, and open game technology.**
 
 ![GitHub](https://img.shields.io/badge/GitHub-G.A.R.D.E.N-181717?style=for-the-badge&logo=github)
-![Focus](https://img.shields.io/badge/Focus-Game%20Technology-0A7EA4?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Fallout%204%20Technology-0A7EA4?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-2EA043?style=for-the-badge)
 
 </div>
@@ -16,17 +16,41 @@
 
 ## About G.A.R.D.E.N
 
-G.A.R.D.E.N is a development organization focused on pushing game modding, tooling, multiplayer systems, UI technology, automation, and research beyond the usual limits of community projects.
+G.A.R.D.E.N is a development organization focused on building modern tooling and open technology around Fallout 4 and Bethesda game development.
 
-We build real systems instead of one-off prototypes, with an emphasis on maintainability, performance, interoperability, and long-term development.
+The goal is bigger than individual mods. We are building an ecosystem of editors, research tools, engine technology, visualization systems, and standalone development software that can make working with Fallout 4 dramatically easier and more powerful.
 
-## What We Build
+## What Lives Here
 
-- **Game systems** that replace or extend engine behavior instead of simply layering scripts on top.
-- **Multiplayer technology** for games that were never designed around modern persistent multiplayer architecture.
-- **Modern UI frameworks** that bridge native game code with web technologies and responsive interfaces.
-- **Developer tooling** for debugging, conflict analysis, content creation, inspection, and automation.
-- **Research and reverse engineering** used to understand undocumented systems and build cleaner integrations.
+### FO4IDE
+
+A modern integrated development environment for Fallout 4 development. FO4IDE is intended to bring editing, inspection, debugging, project tooling, and engine-focused workflows into one modern workspace instead of relying on a collection of disconnected legacy tools.
+
+### Fallout 4 in Godot
+
+A long-term effort to bring Fallout 4 into a modern open engine environment using Godot, conceptually similar to what OpenMW does for Morrowind.
+
+The objective is not simply to recreate a launcher or viewer. The project is aimed at understanding and reproducing the systems needed to load, interpret, render, and eventually run Fallout 4 content outside the original engine while preserving compatibility with existing game data wherever practical.
+
+### Behavior Graph Studio
+
+A dedicated visual environment for inspecting, understanding, editing, and developing Bethesda behavior graphs and animation systems. The goal is to make one of the most difficult parts of Bethesda game development significantly easier to work with.
+
+### Future Tools
+
+G.A.R.D.E.N is also the home for future tools that support Bethesda development, reverse engineering, asset inspection, debugging, visualization, automation, and content creation.
+
+If a tool removes a major limitation from Fallout 4 development, it belongs here.
+
+## Core Areas
+
+- **Development environments** for creating and debugging Fallout 4 projects.
+- **Engine reimplementation** and compatibility research using modern open technology.
+- **Behavior and animation tooling** for Bethesda graph systems.
+- **Reverse engineering** of undocumented engine formats and runtime behavior.
+- **Asset inspection and visualization** for meshes, animations, records, and game data.
+- **Modern interfaces** that replace fragmented or outdated development workflows.
+- **Reusable tooling** designed to support future projects instead of solving one problem once.
 
 ## Technology
 
@@ -34,6 +58,7 @@ We build real systems instead of one-off prototypes, with an emphasis on maintai
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -45,22 +70,23 @@ We build real systems instead of one-off prototypes, with an emphasis on maintai
 
 ## Development Philosophy
 
-> Build the system properly, understand what is actually happening underneath it, and remove unnecessary limitations instead of designing around them forever.
+> Understand the engine, remove the limitations, and build better tools instead of permanently designing around old ones.
 
 Our projects are developed with an emphasis on:
 
 - Performance over unnecessary abstraction
 - Evidence over assumptions
 - Compatibility over fragile shortcuts
-- Reusable architecture over project-specific hacks
+- Reusable architecture over one-off hacks
 - Testing and reproducibility for difficult engine-level problems
-- Modern interfaces for legacy game technology
+- Modern workflows for legacy game technology
+- Long-term foundations instead of disposable prototypes
 
 ---
 
 <div align="center">
 
-### Engineering systems for games that were never supposed to do this.
+### Modern tools for a game and engine ecosystem that still has much further to go.
 
 **G.A.R.D.E.N**
 
