@@ -41,24 +41,6 @@ A large-scale Fallout 4 overhaul that has grown beyond a conventional modlist in
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### AIMatrix
-A multi-agent development environment designed to coordinate multiple AI coding systems, shared context, memory, tooling, and project workflows without forcing everything through a single agent.
-
-**Areas:** AI Agents • Automation • Memory • Tooling • Orchestration
-
-</td>
-<td width="50%" valign="top">
-
-### BGS Research
-Research, reverse engineering, experiments, and technical work surrounding Bethesda Game Studios titles and their underlying systems.
-
-**Areas:** Reverse Engineering • Research • Engine Behavior • Tooling
-
-</td>
-</tr>
 </table>
 
 ## What We Build
@@ -67,7 +49,6 @@ Research, reverse engineering, experiments, and technical work surrounding Bethe
 - **Multiplayer technology** for games that were never designed around modern persistent multiplayer architecture.
 - **Modern UI frameworks** that bridge native game code with web technologies and responsive interfaces.
 - **Developer tooling** for debugging, conflict analysis, content creation, inspection, and automation.
-- **AI-assisted development infrastructure** built around multiple cooperating agents instead of a single isolated assistant.
 - **Research and reverse engineering** used to understand undocumented systems and build cleaner integrations.
 
 ## Technology
