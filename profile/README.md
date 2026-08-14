@@ -4,7 +4,7 @@
 
 ### Game Architecture, Research, Development & Engineering Network
 
-**Building the next generation of Fallout 4 development tools, engine research, and open game technology.**
+**Tools and engine work for Fallout 4 and Bethesda games.**
 
 ![GitHub](https://img.shields.io/badge/GitHub-G.A.R.D.E.N-181717?style=for-the-badge&logo=github)
 ![Focus](https://img.shields.io/badge/Focus-Fallout%204%20Technology-0A7EA4?style=for-the-badge)
@@ -14,45 +14,37 @@
 
 ---
 
-## About G.A.R.D.E.N
+## What is G.A.R.D.E.N?
 
-G.A.R.D.E.N is a development organization focused on building modern tooling and open technology around Fallout 4 and Bethesda game development.
+G.A.R.D.E.N is where we're building the tools we wish existed for Fallout 4 and Bethesda games.
 
-The goal is bigger than individual mods. We are building an ecosystem of editors, research tools, engine technology, visualization systems, and standalone development software that can make working with Fallout 4 dramatically easier and more powerful.
+A lot of Fallout 4 development still means jumping between old tools, undocumented formats, and engine limitations. We're working on changing that. Some projects are focused on making mod development easier. Others go much deeper into the engine itself.
 
-## What Lives Here
+## Projects
 
 ### FO4IDE
 
-A modern integrated development environment for Fallout 4 development. FO4IDE is intended to bring editing, inspection, debugging, project tooling, and engine-focused workflows into one modern workspace instead of relying on a collection of disconnected legacy tools.
+A modern development environment built specifically for Fallout 4. The idea is simple: put editing, inspection, debugging, and the tools you actually need in one place instead of making people piece together a workflow from a dozen separate programs.
 
 ### Fallout 4 in Godot
 
-A long-term effort to bring Fallout 4 into a modern open engine environment using Godot, conceptually similar to what OpenMW does for Morrowind.
+We're working toward running Fallout 4 through Godot.
 
-The objective is not simply to recreate a launcher or viewer. The project is aimed at understanding and reproducing the systems needed to load, interpret, render, and eventually run Fallout 4 content outside the original engine while preserving compatibility with existing game data wherever practical.
+Think OpenMW, but for Fallout 4. This means figuring out how Fallout 4's files, world, rendering, animation, records, scripting, and other systems work and rebuilding what is needed in an open engine.
+
+This is a long-term project and there is a lot to solve, but that's the direction.
 
 ### Behavior Graph Studio
 
-A dedicated visual environment for inspecting, understanding, editing, and developing Bethesda behavior graphs and animation systems. The goal is to make one of the most difficult parts of Bethesda game development significantly easier to work with.
+A visual editor and research tool for Bethesda behavior graphs and animation systems. Behavior graphs are powerful, but working with them is far harder than it should be. BGS is being built to make inspecting, understanding, and eventually editing them much less painful.
 
-### Future Tools
+### More to come
 
-G.A.R.D.E.N is also the home for future tools that support Bethesda development, reverse engineering, asset inspection, debugging, visualization, automation, and content creation.
+This organization isn't limited to those projects. If we run into another part of Bethesda development that needs a better tool, there's a good chance we'll build one.
 
-If a tool removes a major limitation from Fallout 4 development, it belongs here.
+That can mean asset viewers, debugging tools, format research, editors, converters, visualization tools, or something we haven't needed yet.
 
-## Core Areas
-
-- **Development environments** for creating and debugging Fallout 4 projects.
-- **Engine reimplementation** and compatibility research using modern open technology.
-- **Behavior and animation tooling** for Bethesda graph systems.
-- **Reverse engineering** of undocumented engine formats and runtime behavior.
-- **Asset inspection and visualization** for meshes, animations, records, and game data.
-- **Modern interfaces** that replace fragmented or outdated development workflows.
-- **Reusable tooling** designed to support future projects instead of solving one problem once.
-
-## Technology
+## What we're working with
 
 <div align="center">
 
@@ -68,26 +60,10 @@ If a tool removes a major limitation from Fallout 4 development, it belongs here
 
 </div>
 
-## Development Philosophy
-
-> Understand the engine, remove the limitations, and build better tools instead of permanently designing around old ones.
-
-Our projects are developed with an emphasis on:
-
-- Performance over unnecessary abstraction
-- Evidence over assumptions
-- Compatibility over fragile shortcuts
-- Reusable architecture over one-off hacks
-- Testing and reproducibility for difficult engine-level problems
-- Modern workflows for legacy game technology
-- Long-term foundations instead of disposable prototypes
-
 ---
 
 <div align="center">
 
-### Modern tools for a game and engine ecosystem that still has much further to go.
-
-**G.A.R.D.E.N**
+**Figure out how it works. Build a better way to work with it.**
 
 </div>
