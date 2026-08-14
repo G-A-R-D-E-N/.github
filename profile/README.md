@@ -20,29 +20,6 @@ G.A.R.D.E.N is a development organization focused on pushing game modding, tooli
 
 We build real systems instead of one-off prototypes, with an emphasis on maintainability, performance, interoperability, and long-term development.
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Commonwealth Online
-A multiplayer framework and supporting ecosystem for Fallout 4, focused on persistent characters, server-backed systems, synchronized gameplay, and a modern multiplayer experience.
-
-**Areas:** C++ • Networking • F4SE • Persistence • Game Systems
-
-</td>
-<td width="50%" valign="top">
-
-### Fallen World
-A large-scale Fallout 4 overhaul that has grown beyond a conventional modlist into the foundation of a broader remaster-style experience.
-
-**Areas:** Gameplay • Combat • Survival • UI • Weather • Stability
-
-</td>
-</tr>
-</table>
-
 ## What We Build
 
 - **Game systems** that replace or extend engine behavior instead of simply layering scripts on top.
