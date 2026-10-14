@@ -1,16 +1,15 @@
-<div align="center">
+<h1 align="center">G.A.R.D.E.N</h1>
 
-# G.A.R.D.E.N
+<h3 align="center">Game Architecture, Research, Development & Engineering Network</h3>
 
-### Game Architecture, Research, Development & Engineering Network
+<p align="center"><b>Tools and engine work for Fallout 4 and Bethesda games.</b></p>
 
-**Tools and engine work for Fallout 4 and Bethesda games.**
-
-![GitHub](https://img.shields.io/badge/GitHub-G.A.R.D.E.N-181717?style=for-the-badge&logo=github)
-![Focus](https://img.shields.io/badge/Focus-Fallout%204%20Technology-0A7EA4?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-2EA043?style=for-the-badge)
-
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/GitHub-G.A.R.D.E.N-181717?style=for-the-badge&logo=github" alt="GitHub">
+<img src="https://img.shields.io/badge/Focus-Fallout%204%20Technology-0A7EA4?style=for-the-badge" alt="Focus">
+<img src="https://img.shields.io/badge/Status-Active-2EA043?style=for-the-badge" alt="Status">
+<a href="https://discord.gg/cGJWkWBfPC"><img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+</p>
 
 ---
 
@@ -44,26 +43,26 @@ This organization isn't limited to those projects. If we run into another part o
 
 That can mean asset viewers, debugging tools, format research, editors, converters, visualization tools, or something we haven't needed yet.
 
+## Community
+
+Want to follow progress, ask questions, or get involved? Join us on Discord: <a href="https://discord.gg/cGJWkWBfPC">discord.gg/cGJWkWBfPC</a>
+
 ## What we're working with
 
-<div align="center">
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+</p>
 
 ---
 
-<div align="center">
+<p align="center"><b>Figure out how it works. Build a better way to work with it.</b></p>
 
-**Figure out how it works. Build a better way to work with it.**
-
-</div>
+<p align="center"><a href="https://discord.gg/cGJWkWBfPC">Join the Discord</a></p>
