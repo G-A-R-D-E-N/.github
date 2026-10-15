@@ -1,3 +1,4 @@
+
 <h1 align="center">G.A.R.D.E.N</h1>
 
 <h3 align="center">Game Architecture, Research, Development & Engineering Network</h3>
@@ -9,6 +10,7 @@
 <img src="https://img.shields.io/badge/Focus-Fallout%204%20Technology-0A7EA4?style=for-the-badge" alt="Focus">
 <img src="https://img.shields.io/badge/Status-Active-2EA043?style=for-the-badge" alt="Status">
 <a href="https://discord.gg/cGJWkWBfPC"><img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://www.reddit.com/r/GardenEngine/"><img src="https://img.shields.io/badge/Reddit-r%2FGardenEngine-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
 </p>
 
 ---
@@ -45,7 +47,15 @@ That can mean asset viewers, debugging tools, format research, editors, converte
 
 ## Community
 
-Want to follow progress, ask questions, or get involved? Join us on Discord: <a href="https://discord.gg/cGJWkWBfPC">discord.gg/cGJWkWBfPC</a>
+Want to follow progress, ask questions, or get involved?
+
+**Discord:** Our main place for development discussions, questions, and community interaction.
+
+https://discord.gg/cGJWkWBfPC
+
+**Reddit:** Development updates, project announcements, technical discussions, and progress on G.A.R.D.E.N. projects, including future work beyond Bethesda-related content.
+
+https://www.reddit.com/r/GardenEngine/
 
 ## What we're working with
 
@@ -65,4 +75,7 @@ Want to follow progress, ask questions, or get involved? Join us on Discord: <a 
 
 <p align="center"><b>Figure out how it works. Build a better way to work with it.</b></p>
 
-<p align="center"><a href="https://discord.gg/cGJWkWBfPC">Join the Discord</a></p>
+<p align="center">
+<a href="https://discord.gg/cGJWkWBfPC">Join the Discord</a> |
+<a href="https://www.reddit.com/r/GardenEngine/">Join the Subreddit</a>
+</p>
